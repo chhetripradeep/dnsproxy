@@ -1,0 +1,6 @@
+build/
+dist/
+dnsproxy.egg-info/
+.pyc
+.xml
+.idea/
